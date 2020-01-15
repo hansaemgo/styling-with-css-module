@@ -1,0 +1,7 @@
+1. CSS Module
+    - 컴포넌트 스타일링시  CSS 클래스 이름 중복되는 것 방지
+    - .module.css  (ex) Box.module.css 
+    - import styles from "./Box.module.css" (고유화) _src_Box_module_Box 이런형태
+    - 레거시 프로젝트에 리액트 도입시 (기존 프로젝트에 리액트 도입시 - 일부기능만 classname 중복 방지)
+    - css 클래스 네이밍 규칙 만들기 귀찮을때
+    
